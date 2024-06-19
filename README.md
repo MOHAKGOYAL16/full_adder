@@ -1,4 +1,4 @@
-# full_adder
+# HALF_adder
 
 --> Generally in full adder, we have two inputs a and b with this we also have two outputs that shows the sum and carry of these inputs, as it's name it used for adding two bits.
 --> For this i have used two popular softwares named as Modelsim and Quartus prime.
